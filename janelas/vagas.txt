@@ -1,0 +1,7 @@
+1 | livre | 0 | 0
+2 | livre | 0 | 0
+3 | livre | 0 | 0
+4 | livre | 0 | 0
+5 | livre | 0 | 0
+6 | livre | 0 | 0
+7 | livre | 0 | 0
